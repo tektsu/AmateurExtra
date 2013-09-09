@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'aecli' target in the 'aecli' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
